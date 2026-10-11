@@ -1,0 +1,8 @@
+{
+  "name": "Smart Campus Analytics: Student Success Platform",
+  "description": "AI-powered student analytics and success platform for early at-risk identification, explainable student success scores, cohort segmentation, and data-driven intervention intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
